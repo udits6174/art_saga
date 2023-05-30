@@ -1,0 +1,10 @@
+{
+    "editor.codeActionsOnSave" :{
+        "source.fixAll.eslint": true
+    },
+    //apply eslint rules directly on save (ctrl + s)
+    "files.exclude" :{
+        "**/.git": false,
+        }
+    //show .git folder in vscode
+}
